@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7866023-3cd4-40f5-bfa8-0bf4fafa66bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nckhntu/eventunivercity_v2_be/Configuration/Application/ApplicationConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nckhntu/eventunivercity_v2_be/Configuration/Application/CORSFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nckhntu/eventunivercity_v2_be/Configuration/Application/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nckhntu/eventunivercity_v2_be/Configuration/Application/RequestContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nckhntu/eventunivercity_v2_be/Configuration/Security/CustomUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nckhntu/eventunivercity_v2_be/Configuration/Security/JwtAuthenticationEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nckhntu/eventunivercity_v2_be/Configuration/Security/JwtRequestFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nckhntu/eventunivercity_v2_be/Configuration/Security/JwtTokenUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nckhntu/eventunivercity_v2_be/Configuration/Security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/nckhntu/eventunivercity_v2_be/Repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Controller/User/EventController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Controller/User/UserPermissionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Model/Request/FilterEvenRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Model/Request/RegisterRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Model/Request/VerificationCodeRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Model/Response/EventOutPut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Model/Response/UserPermissionResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Repository/EventAnalyticsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Repository/EventChatroomRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Repository/EventCheckinsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Repository/EventFeedbackRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Repository/EventLocationAvailabilityRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Repository/EventMapRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Repository/EventNotificationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Repository/EventRegistrationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Repository/EventRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Repository/EventSuggestionsRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Repository/LocationRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Repository/OtpRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Repository/OtpTemplateRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Repository/ProfileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Repository/UserEventsHistoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Repository/UserPermissionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/ServiceImpl/Impl/EventServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/ServiceImpl/Impl/UserPermissionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/ServiceImpl/Impl/UserServiceIMPL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/ServiceImpl/Service/EventRegistrationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/ServiceImpl/Service/EventService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/ServiceImpl/Service/UserPermissionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/ServiceImpl/Service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Util/RandomId.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Eventify_v1_be/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Eventify_v1_be/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Configuration/Security/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Configuration/Security/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Controller/User/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Eventify_v1_be/src/main/java/com/nckh/ninhngoctuan/eventify_v1_be/Controller/User/AuthController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2qIb27rhDd20mQMSO79SJ9gmL57" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.EventUnivercityV2BeApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/NCKH/EventUnivercity_v2_be/src/main/java/com/nckhntu/eventunivercity_v2_be",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\NCKH\EventUnivercity_v2_be\src\main\java\com\nckhntu\eventunivercity_v2_be" />
+      <recent name="D:\NCKH\EventUnivercity_v2_be\src\main\java\com\nckhntu\eventunivercity_v2_be\Model\DTO" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EventUnivercityV2BeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="EventUnivercity_v2_be" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.nckhntu.eventunivercity_v2_be.EventUnivercityV2BeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23726.103" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23726.103" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7866023-3cd4-40f5-bfa8-0bf4fafa66bf" name="Changes" comment="" />
+      <created>1734352826763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734352826763</updated>
+      <workItem from="1734352827801" duration="15743000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
